@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
 
         <p>
          If you want to, you can check out {' '}
-          <a href="https://github.com/snow2405">my github profile</a> here.
+          <a href="https://github.com/snow2405">my GitHub profile</a> here.
         </p>
       </section>
 
